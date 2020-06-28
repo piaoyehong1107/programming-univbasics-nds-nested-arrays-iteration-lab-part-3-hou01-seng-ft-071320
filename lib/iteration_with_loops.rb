@@ -11,5 +11,9 @@ def join_nested_strings(src)
     end
     count +=1 
   end
+<<<<<<< HEAD
   new_array.join(' ')
+=======
+  new_array.join('')
+>>>>>>> 08d8bc0f99a02f219b6cce92fc41ee704008c2d2
 end
